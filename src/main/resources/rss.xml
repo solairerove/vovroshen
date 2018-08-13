@@ -1,0 +1,172 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+    <channel>
+        <title>WorldViews</title>
+        <description>
+            WorldViews is the Washington Post's foreign news blog.
+        </description>
+        <link>https://www.washingtonpost.com</link>
+        <atom:link href="https://www.washingtonpost.com/arcio/rss/" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 13 Aug 2018 10:26:51 +0000</lastBuildDate>
+        <ttl>1</ttl>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <item>
+            <title>Erdogan fights a losing battle with Trump</title>
+            <link>
+                https://www.washingtonpost.com/world/2018/08/13/erdogan-fights-losing-battle-with-trump/
+            </link>
+            <description>
+                There's only one real winner in the mismatch between the United States and Turkey.
+            </description>
+            <guid isPermaLink="true">
+                https://www.washingtonpost.com/world/2018/08/13/erdogan-fights-losing-battle-with-trump/
+            </guid>
+            <dc:creator>Ishaan Tharoor</dc:creator>
+            <pubDate>Mon, 13 Aug 2018 04:59:16 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                After visa woes, a 9-year-old chess prodigy may have won his fight to stay in Britain
+            </title>
+            <link>
+                https://www.washingtonpost.com/world/2018/08/11/after-visa-woes-year-old-chess-prodigy-may-have-won-his-fight-stay-britain/
+            </link>
+            <description>
+                Shreyas Royal was set to leave the country when his father's work visa expired. But the young chess prodigy's talent means his whole family will now stay.
+            </description>
+            <guid isPermaLink="true">
+                https://www.washingtonpost.com/world/2018/08/11/after-visa-woes-year-old-chess-prodigy-may-have-won-his-fight-stay-britain/
+            </guid>
+            <dc:creator>Siobhán O'Grady</dc:creator>
+            <pubDate>Sat, 11 Aug 2018 21:51:02 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                Thousands of Romanians protested corruption and police responded with force
+            </title>
+            <link>
+                https://www.washingtonpost.com/world/2018/08/11/thousands-romanians-protested-corruption-police-responded-with-force/
+            </link>
+            <description>
+                Tens of thousands of Romanians took to the streets of Bucharest to call for the government to resign.
+            </description>
+            <guid isPermaLink="true">
+                https://www.washingtonpost.com/world/2018/08/11/thousands-romanians-protested-corruption-police-responded-with-force/
+            </guid>
+            <dc:creator>Siobhán O'Grady</dc:creator>
+            <pubDate>Sat, 11 Aug 2018 20:02:09 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                Video footage appears to show Cameroonian security forces executing unarmed people, Amnesty says
+            </title>
+            <link>
+                https://www.washingtonpost.com/world/2018/08/10/video-footage-appears-show-cameroonian-security-forces-executing-unarmed-people-amnesty-says/
+            </link>
+            <description>
+                For the second time in a matter of weeks, Cameroon is investigating video that Amnesty International says shows security forces executing unarmed people.
+            </description>
+            <guid isPermaLink="true">
+                https://www.washingtonpost.com/world/2018/08/10/video-footage-appears-show-cameroonian-security-forces-executing-unarmed-people-amnesty-says/
+            </guid>
+            <dc:creator>Siobhán O'Grady</dc:creator>
+            <pubDate>Fri, 10 Aug 2018 20:19:01 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                Indian lawmaker shows up to parliament dressed as Hitler, sparks very little outrage
+            </title>
+            <link>
+                https://www.washingtonpost.com/world/2018/08/10/indian-lawmaker-shows-up-parliament-dressed-hitler-sparks-very-little-outrage/
+            </link>
+            <description>
+                The legislator is known for dressing up to make a statement.
+            </description>
+            <guid isPermaLink="true">
+                https://www.washingtonpost.com/world/2018/08/10/indian-lawmaker-shows-up-parliament-dressed-hitler-sparks-very-little-outrage/
+            </guid>
+            <dc:creator>Ruby Mellen</dc:creator>
+            <pubDate>Fri, 10 Aug 2018 18:07:37 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                Australians are trolling their MPs for free portraits of Queen Elizabeth II
+            </title>
+            <link>
+                https://www.washingtonpost.com/world/2018/08/10/australians-are-trolling-their-mps-free-portraits-queen-elizabeth-ii/
+            </link>
+            <description>
+                It turns out very few Australians realized they could request a complimentary portrait of Queen Elizabeth II.
+            </description>
+            <guid isPermaLink="true">
+                https://www.washingtonpost.com/world/2018/08/10/australians-are-trolling-their-mps-free-portraits-queen-elizabeth-ii/
+            </guid>
+            <dc:creator>Siobhán O'Grady</dc:creator>
+            <pubDate>Fri, 10 Aug 2018 16:05:08 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                How a Trump tweet and an Erdogan speech shook Turkey’s economy
+            </title>
+            <link>
+                https://www.washingtonpost.com/world/2018/08/10/how-trump-tweet-an-erdogan-speech-shook-turkeys-economy/
+            </link>
+            <description>
+                The Turkish lira dropped dramatically against the dollar Friday, losing more than 18 percent of its value in one day.
+            </description>
+            <guid isPermaLink="true">
+                https://www.washingtonpost.com/world/2018/08/10/how-trump-tweet-an-erdogan-speech-shook-turkeys-economy/
+            </guid>
+            <dc:creator>Adam Taylor</dc:creator>
+            <pubDate>Fri, 10 Aug 2018 16:01:08 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                Trump’s proposed Space Force could worsen Earth’s orbital debris problem
+            </title>
+            <link>
+                https://www.washingtonpost.com/world/2018/08/10/trumps-proposed-space-force-could-worsen-earths-orbital-debris-problem/
+            </link>
+            <description>
+                While Space Force may sound funny to some, the last military test in space by China in 2007 produced up to 25 percent of today’s space debris.
+            </description>
+            <guid isPermaLink="true">
+                https://www.washingtonpost.com/world/2018/08/10/trumps-proposed-space-force-could-worsen-earths-orbital-debris-problem/
+            </guid>
+            <dc:creator>Rick Noack</dc:creator>
+            <pubDate>Fri, 10 Aug 2018 11:29:04 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                Pakistan may be the next victim of China’s new ‘imperialism’
+            </title>
+            <link>
+                https://www.washingtonpost.com/world/2018/08/10/pakistan-may-be-next-victim-chinas-new-imperialism/
+            </link>
+            <description>
+                A showdown over Pakistan's foreign debt sees China's ambitions clash with Washington's concerns.
+            </description>
+            <guid isPermaLink="true">
+                https://www.washingtonpost.com/world/2018/08/10/pakistan-may-be-next-victim-chinas-new-imperialism/
+            </guid>
+            <dc:creator>Ishaan Tharoor</dc:creator>
+            <pubDate>Fri, 10 Aug 2018 06:47:32 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                In Australia, farmers dealing with drought can kill kangaroos that compete with their livestock
+            </title>
+            <link>
+                https://www.washingtonpost.com/world/2018/08/09/australia-farmers-dealing-with-drought-can-kill-kangaroos-that-compete-with-their-livestock/
+            </link>
+            <description>
+                The drought is so severe that farmers can now shoot kangaroos that interfere with their livestock's pastures.
+            </description>
+            <guid isPermaLink="true">
+                https://www.washingtonpost.com/world/2018/08/09/australia-farmers-dealing-with-drought-can-kill-kangaroos-that-compete-with-their-livestock/
+            </guid>
+            <dc:creator>Siobhán O'Grady</dc:creator>
+            <pubDate>Thu, 09 Aug 2018 20:48:18 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
