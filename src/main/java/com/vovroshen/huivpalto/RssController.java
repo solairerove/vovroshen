@@ -1,6 +1,8 @@
 package com.vovroshen.huivpalto;
 
+import com.vovroshen.huivpalto.response.RssFeedResponse;
 import lombok.RequiredArgsConstructor;
+import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -13,10 +15,10 @@ public class RssController
 {
     private final RssService rssService;
 
-    @GetMapping( "/" )
-    public ResponseEntity<String> getRss()
+    @GetMapping(produces = MediaType.APPLICATION_JSON_UTF8_VALUE )
+    public ResponseEntity<RssFeedResponse> getRss()
     {
-        final String rssFeed = rssService.readRss();
+        final RssFeedResponse rssFeed = rssService.readRss();
 
         return ResponseEntity.ok().body( rssFeed );
     }
