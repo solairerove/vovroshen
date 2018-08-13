@@ -32,6 +32,9 @@ dependencies {
     // https://mvnrepository.com/artifact/com.fasterxml.woodstox/woodstox-core
     compile group: 'com.fasterxml.woodstox', name: 'woodstox-core', version: '5.1.0'
 
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.module/jackson-module-jaxb-annotations
+    compile group: 'com.fasterxml.jackson.module', name: 'jackson-module-jaxb-annotations', version: '2.9.6'
+
     // https://mvnrepository.com/artifact/commons-io/commons-io
     compile group: 'commons-io', name: 'commons-io', version: '2.6'
 

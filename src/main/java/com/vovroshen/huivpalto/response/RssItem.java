@@ -4,7 +4,11 @@ import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
 import lombok.Data;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+
 @Data
+@XmlAccessorType( XmlAccessType.NONE )
 @JacksonXmlRootElement( localName = "item" )
 public class RssItem
 {
@@ -12,7 +16,7 @@ public class RssItem
     private String title;
 
     @JacksonXmlProperty( localName = "link" )
-    private String link;
+    private RssItemLink link;
 
     @JacksonXmlProperty( localName = "description" )
     private String description;

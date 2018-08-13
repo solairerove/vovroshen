@@ -16,7 +16,7 @@
         <sy:updateFrequency>1</sy:updateFrequency>
         <item>
             <title>Erdogan fights a losing battle with Trump</title>
-            <link>
+            <link erdogan="true">
                 https://www.washingtonpost.com/world/2018/08/13/erdogan-fights-losing-battle-with-trump/
             </link>
             <description>
